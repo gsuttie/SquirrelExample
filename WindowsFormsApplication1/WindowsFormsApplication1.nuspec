@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WindowsFormsAppliation1</id>
+    <version>1.0.0.0</version>
+    <authors>Gregor Suttie</authors>
+    <title>WindowsFormsAppliation1 Squirrel Tester</title>
+    <description>Testing out Squirrel</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>None</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+  <files>
+    <file src="bin\Debug\*.*" target="lib\net45\"></file>
+  </files>
+</package>

@@ -1,0 +1,44 @@
+﻿Program: Starting Squirrel Updater: --releasify WindowsFormsApplication1.1.0.0.0.nupkg
+Program: Bootstrapper EXE found at:C:\Squirrel\WindowsFormsApplication1\packages\squirrel.windows.0.9.4\tools\Setup.exe
+Program: Creating release package: C:\Squirrel\WindowsFormsApplication1\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg
+ReleasePackage: Creating release package: C:\Squirrel\WindowsFormsApplication1\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg => C:\Squirrel\WindowsFormsApplication1\WindowsFormsApplication1\Releases\WindowsFormsApplication1-1.0.0.0-full.nupkg
+ReleasePackage: Couldn't find file for package in .: squirrel.windows
+Program: Starting Squirrel Updater: --releasify C:\Squirrel\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1.1.0.0.0.nupkg
+Program: Bootstrapper EXE found at:C:\Squirrel\WindowsFormsApplication1\packages\squirrel.windows.0.9.4\tools\Setup.exe
+Program: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg
+ReleasePackage: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg => C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1-1.0.0.0-full.nupkg
+ReleasePackage: Couldn't find file for package in .: squirrel.windows
+Program: Starting Squirrel Updater: --releasify C:\Squirrel\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1.1.0.0.0.nupkg
+Program: Bootstrapper EXE found at:C:\Squirrel\WindowsFormsApplication1\packages\squirrel.windows.0.9.4\tools\Setup.exe
+Program: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg
+ReleasePackage: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg => C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1-1.0.0.0-full.nupkg
+ReleasePackage: Couldn't find file for package in .: squirrel.windows
+Program: Starting Squirrel Updater: --releasify C:\Squirrel\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1.1.0.0.0.nupkg
+Program: Bootstrapper EXE found at:C:\Squirrel\WindowsFormsApplication1\packages\squirrel.windows.0.9.4\tools\Setup.exe
+Program: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg
+ReleasePackage: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg => C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1-1.0.0.0-full.nupkg
+ReleasePackage: Couldn't find file for package in .: squirrel.windows
+Program: Starting Squirrel Updater: --releasify C:\Squirrel\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1.1.0.0.0.nupkg
+Program: Bootstrapper EXE found at:C:\Squirrel\WindowsFormsApplication1\packages\squirrel.windows.0.9.4\tools\Setup.exe
+Program: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg
+ReleasePackage: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg => C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1-1.0.0.0-full.nupkg
+ReleasePackage: Extracting dependent packages: []
+ReleasePackage: Removing unnecessary data
+ReleasePackage: No release notes found in C:\Users\gsuttie\AppData\Local\SquirrelTemp\tempa\WindowsFormsApplication1.nuspec
+Program: Building embedded zip file for Setup.exe
+Program: Starting Squirrel Updater: --releasify C:\Squirrel\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1.1.0.0.0.nupkg
+Program: Bootstrapper EXE found at:C:\Squirrel\WindowsFormsApplication1\packages\squirrel.windows.0.9.4\tools\Setup.exe
+Program: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg
+ReleasePackage: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg => C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1-1.0.0.0-full.nupkg
+ReleasePackage: Extracting dependent packages: []
+ReleasePackage: Removing unnecessary data
+ReleasePackage: No release notes found in C:\Users\gsuttie\AppData\Local\SquirrelTemp\tempa\WindowsFormsApplication1.nuspec
+Program: Building embedded zip file for Setup.exe
+Program: Starting Squirrel Updater: --releasify C:\Squirrel\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1.1.0.0.0.nupkg
+Program: Bootstrapper EXE found at:C:\Squirrel\WindowsFormsApplication1\packages\squirrel.windows.0.9.4\tools\Setup.exe
+Program: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg
+ReleasePackage: Creating release package: C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1.1.0.0.0.nupkg => C:\Squirrel\WindowsFormsApplication1\Releases\WindowsFormsApplication1-1.0.0.0-full.nupkg
+ReleasePackage: Extracting dependent packages: []
+ReleasePackage: Removing unnecessary data
+ReleasePackage: No release notes found in C:\Users\gsuttie\AppData\Local\SquirrelTemp\tempa\WindowsFormsApplication1.nuspec
+Program: Building embedded zip file for Setup.exe
